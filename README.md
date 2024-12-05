@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rahmat Ullah</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahmatullahsa&label=Profile%20views&color=0e75b6&style=flat" alt="rahmatullahsa" /> </p>
+
 
 <p align="left"> <a href="https://twitter.com/rahmatullah0008" target="blank"><img src="https://img.shields.io/twitter/follow/rahmatullah0008?logo=twitter&style=for-the-badge" alt="rahmatullah0008" /></a> </p>
 <h1 align="center">Hi there, I'm <a href="https://rahmatullahsa.github.io" target="_blank">Rahmat Ullah</a> 👋</h1>
