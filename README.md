@@ -1,6 +1,4 @@
 
-
-<p align="left"> <a href="https://twitter.com/rahmatullah0008" target="blank"><img src="https://img.shields.io/twitter/follow/rahmatullah0008?logo=twitter&style=for-the-badge" alt="rahmatullah0008" /></a> </p>
 <h1 align="center">Hi there, I'm <a href="https://rahmatullahsa.github.io" target="_blank">Rahmat Ullah</a> 👋</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=27F7FF&center=true&width=600&lines=Software+Engineer+%7C+Python+%7C+Django;Full-stack+Developer+%7C+Tech+Enthusiast;Exploring+%7C+Learning+%7C+Building+%F0%9F%9A%80" alt="Typing SVG" />
